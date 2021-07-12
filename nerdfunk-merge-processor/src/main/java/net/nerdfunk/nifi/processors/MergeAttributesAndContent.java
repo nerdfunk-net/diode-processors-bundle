@@ -78,7 +78,7 @@ public class MergeAttributesAndContent extends AbstractProcessor {
             .displayName("Delimiter")
             .description("The delimiter to use to seperate json and content")
             .required(true)
-            .defaultValue("===postbotedelimiter===")
+            .defaultValue("===nerdfunkdelimiter===")
             .addValidator(StandardValidators.NON_EMPTY_VALIDATOR)
             .build();
 

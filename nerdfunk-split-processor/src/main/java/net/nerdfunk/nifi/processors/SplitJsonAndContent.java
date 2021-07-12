@@ -95,7 +95,7 @@ public class SplitJsonAndContent extends AbstractProcessor {
             .name("Byte Sequence")
             .description("A representation of bytes to look for and upon which to split the source file into separate files")
             .addValidator(StandardValidators.NON_EMPTY_VALIDATOR)
-            .defaultValue("===postbotedelimiter===")
+            .defaultValue("===nerdfunkdelimiter===")
             .required(true)
             .build();
     public static final PropertyDescriptor KEEP_SEQUENCE = new PropertyDescriptor.Builder()
