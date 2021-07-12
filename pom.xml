@@ -20,7 +20,9 @@
     <version>1.0</version>
     <packaging>pom</packaging>
     <modules>
-        <module>nerdfunk-diode-attributes</module>
+        <module>nerdfunk-diode-attributes-processor</module>
         <module>nerdfunk-add-attributes-processor</module>
+        <module>nerdfunk-merge-processor</module>
+        <module>nerdfunk-split-processor</module>
     </modules>
 </project>

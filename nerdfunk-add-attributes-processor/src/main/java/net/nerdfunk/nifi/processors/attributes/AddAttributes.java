@@ -54,9 +54,6 @@ import java.util.HashMap;
 @SeeAlso({})
 @ReadsAttributes({
 @ReadsAttribute(attribute = "match attribute", description = "The name of the attribute we are looking at.")})
-//@WritesAttributes({
-//    
-//})
 
 public class AddAttributes extends AbstractProcessor {
 
