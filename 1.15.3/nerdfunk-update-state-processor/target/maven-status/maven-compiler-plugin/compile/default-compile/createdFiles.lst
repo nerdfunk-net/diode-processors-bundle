@@ -1,0 +1,8 @@
+net/nerdfunk/nifi/processors/state/UpdateState.class
+net/nerdfunk/nifi/processors/state/RouteOnState.class
+net/nerdfunk/nifi/processors/state/UpdateState$StringSerializer.class
+net/nerdfunk/nifi/processors/state/RouteOnState$StringSerializer.class
+net/nerdfunk/nifi/processors/state/RouteOnState$CacheValueSerializer.class
+net/nerdfunk/nifi/processors/state/UpdateState$CacheValueDeserializer.class
+net/nerdfunk/nifi/processors/state/UpdateState$CacheValueSerializer.class
+net/nerdfunk/nifi/processors/state/RouteOnState$CacheValueDeserializer.class
